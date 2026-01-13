@@ -26,5 +26,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: potter/mlops-api:latest
+          tags: anhdd17/mlops-api:latest
           platforms: linux/amd64
